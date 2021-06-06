@@ -1,0 +1,24 @@
+/*.machine_wrapper {*/
+/*    width: 100%;*/
+/*    display: grid;*/
+/*    grid-gap: 10px;*/
+/*    grid-template-columns: repeat(auto-fill, minmax(20%, 2fr));*/
+/*}*/
+
+/*.machine_box {*/
+/*    margin: 5%;*/
+/*    cursor: pointer;*/
+/*    background-color: #444;*/
+/*    color: #fff;*/
+/*    border-radius: 5px;*/
+/*    padding: 20px;*/
+/*    transition: 0.1s;*/
+/*}*/
+
+/*.machine_box:hover {*/
+/*    transform: scale(1.1);*/
+/*}*/
+
+/*.form-inline {*/
+/*    display:inline;*/
+/*}*/
